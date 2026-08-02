@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmyshlyaev&show_icons=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Stats)
 -->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksmysh&layout=compact&exclude_repo=PyRobotTesting&theme=transparent)](https://github.com/ksmysh/github-readme-stats)
--->
-
+## Top langs:
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ksmysh&layout=compact&exclude_repo=PyRobotTesting&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
 ## Contacts:
 <p align="left">
